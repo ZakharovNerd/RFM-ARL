@@ -1,5 +1,5 @@
 import pandas as pd
-online = pd.read_csv('C:/Users/nikit/Downloads/datar.csv')
+online = pd.read_csv('datar.csv')
 
 import matplotlib.pyplot as plt
 import seaborn as sns
